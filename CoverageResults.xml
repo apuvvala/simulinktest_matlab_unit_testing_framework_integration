@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<coverage branch-rate="NaN" branches-covered="NaN" branches-valid="NaN" complexity="NaN" line-rate="1" lines-covered="1" lines-valid="1" timestamp="736849.5294" version="NaN">
+   <sources>
+      <source>/Users/Shared/Jenkins/Documents/MATLAB/work/mab2017/general/myXCorr.m</source>
+   </sources>
+   <packages>
+      <package branch-rate="NaN" complexity="NaN" line-rate="1" name="">
+         <classes>
+            <class branch-rate="NaN" complexity="NaN" filename="/Users/Shared/Jenkins/Documents/MATLAB/work/mab2017/general/myXCorr.m" line-rate="1" name="myXCorr">
+               <methods/>
+               <lines>
+                  <line branch="NaN" condition-coverage="NaN" hits="52" number="3"/>
+               </lines>
+            </class>
+         </classes>
+      </package>
+   </packages>
+</coverage>
